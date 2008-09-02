@@ -1,0 +1,13 @@
+Functions:
+=========
+trCallTip             Show function arguments in a human-readable way
+                      (get a call tip)
+trComplete            Get a completion list for a R code fragment
+trCopy                Convert an R object and copy it to the clipboard
+trExport              Export the content of an object in a foreign format
+trExport.default      S3 method to trExport
+trExport.data.frame   S3 method to trExport
+trExport.matrix       S3 method to trExport
+trDDEInstall          Install a DDE server (Windows only) for Tinn-R
+trObjSearch           Lists the search path
+trObjList             Lists objects in a given environment

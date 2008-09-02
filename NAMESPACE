@@ -1,0 +1,13 @@
+arimport(utils, tcltk, Hmisc, R2HTML)
+
+export(trCallTip,
+  trComplete,
+  trCopy,
+  trDDEInstall,
+  trExport,
+  trObjList,
+  trObjSearch)
+
+S3method(trExport, default)
+S3method(trExport, data.frame)
+S3method(trExport, matrix)
