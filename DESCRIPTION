@@ -1,7 +1,7 @@
 Package: TinnR
 Type: Package
 Title: Resources of Tinn-R GUI/Editor for R Environment
-Version: 1.0.2
+Version: 1.0.3
 Date: 2008-09-02
 Author: Jose Claudio Faria <joseclaudio.faria@gmail.com>, based on the
         sources of Philippe Grosjean <phgrosjean@sciviews.org>
@@ -11,4 +11,4 @@ Description: Implements a set of customized functions, adapted from svIDE,
              svMisc and svIO packages of Philippe Grosjean, necessary to Tinn-R
              GUI/Editor for R environment
 License: GPL (>= 2)
-Packaged: Wed Sep  3 13:36:38 2008; jcfaria
+Packaged: Mon Feb  9 18:53:54 2009; jcfaria

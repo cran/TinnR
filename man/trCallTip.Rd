@@ -21,7 +21,7 @@
   \item{onlyargs}{Do we return the whole calltip or only the function
     arguments?}
   \item{width}{Reformat the calltip to with (use 0 for not reformatting it).}
-  \item{location} {If \code{TRUE} then the location (in which package the
+  \item{location}{If \code{TRUE} then the location (in which package the
     function resides) is appended to the calltip between square brackets.}
 }
 
@@ -46,4 +46,4 @@
   \code{\link{trDDEInstall}}
 }
 
-\keyword{ utilities }
+\keyword{utilities}

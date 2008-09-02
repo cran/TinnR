@@ -1,4 +1,4 @@
-arimport(utils, tcltk, Hmisc, R2HTML)
+import(utils, tcltk, Hmisc, R2HTML)
 
 export(trCallTip,
   trComplete,
@@ -6,7 +6,8 @@ export(trCallTip,
   trDDEInstall,
   trExport,
   trObjList,
-  trObjSearch)
+  trObjSearch,
+  trStartIDE)
 
 S3method(trExport, default)
 S3method(trExport, data.frame)

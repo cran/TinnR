@@ -9,5 +9,6 @@ trExport.default      S3 method to trExport
 trExport.data.frame   S3 method to trExport
 trExport.matrix       S3 method to trExport
 trDDEInstall          Install a DDE server (Windows only) for Tinn-R
-trObjSearch           Lists the search path
-trObjList             Lists objects in a given environment
+trObjSearch           List the search path
+trObjList             List objects in a given environment
+trStartIDE            Start the IDE

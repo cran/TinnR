@@ -3,7 +3,7 @@
 # Original code: [svIO] copy function
 # Adapted by   : Jose Claudio Faria
 # Objective    : To supply the current necessity of the Tinn-R project
-# date         : 09/03/2008 1:25 PM
+# Date         : 09/03/2008 1:25 PM
 #=======================================================================
 
 trCopy <-

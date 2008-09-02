@@ -18,9 +18,6 @@
 }
 
 \value{
-  Theis function should be used to interact with Tinn-R. Their result
-  is returned invisibly for debugging purposes and is not intended to be use
-  in R.
 }
 
 \author{
@@ -29,6 +26,10 @@
 }
 
 \note{
+  This function should be used to interact with Tinn-R. Their result
+  is returned invisibly for debugging purposes and is not intended to be use
+  in R.
+
   DDE is a communication protocol that exists only under Windows. Consequently,
   those functions cannot be used (yet) on other platforms.
 
