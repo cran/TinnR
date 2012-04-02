@@ -34,7 +34,6 @@
 }
 
 \seealso{
-  \code{\link[svIO]{export}},
   \code{\link{trExport}},
 }
 

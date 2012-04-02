@@ -61,7 +61,7 @@
 
 \seealso{
   \code{\link[svMisc]{Complete}}
-  \code{\link[svMISC]{CallTip}},
+  \code{\link[svMisc]{CallTip}},
   \code{\link{trCallTip}}
   \code{\link{trDDEInstall}}
 }

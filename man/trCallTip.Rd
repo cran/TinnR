@@ -40,7 +40,7 @@
 }
 
 \seealso{
-  \code{\link[svMISC]{CallTip}},
+  \code{\link[svMisc]{CallTip}},
   \code{\link[svMisc]{Complete}}
   \code{\link{trComplete}}
   \code{\link{trDDEInstall}}

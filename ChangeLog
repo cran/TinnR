@@ -1,11 +1,11 @@
-2009-02-08 vs. 1.0.3 - Jose Claudio Faria  <joseclaudio.faria@gmail.com>
+2012-04-02 vs. 1.0-5 - Jose Claudio Faria  <joseclaudio.faria@gmail.com>
+	* Cosmetic changes to meet the requirements of CRAN
 
+2009-02-08 vs. 1.0-3 - Jose Claudio Faria  <joseclaudio.faria@gmail.com>
 	* New function added: trStartIDE
 
-2008-09-03 vs. 1.0.2 - Jose Claudio Faria  <joseclaudio.faria@gmail.com>
-
+2008-09-03 vs. 1.0-2 - Jose Claudio Faria  <joseclaudio.faria@gmail.com>
 	* Released to CRAN
 	  
-2008-08-01 vs. 1.0.1 - Jose Claudio Faria  <joseclaudio.faria@gmail.com>
-
+2008-08-01 vs. 1.0-1 - Jose Claudio Faria  <joseclaudio.faria@gmail.com>
 	* Fisrt version restricted released (to testers only)

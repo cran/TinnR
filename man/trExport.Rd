@@ -47,7 +47,6 @@
 }
 
 \seealso{
-  \code{\link[svIO]{copy}},
   \code{\link{trCopy}}
 }
 

@@ -6,7 +6,6 @@ citEntry(entry  = "Manual",
          organization = "UESC",
          address      = "Ilheus, Bahia, Brasil",
          year         = version$year,
-
          textVersion =
          paste("Faria, J.C (", version$year, ").",
                "Resources of Tinn-R GUI/Editor for R Environment.",
